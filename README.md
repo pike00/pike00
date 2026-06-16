@@ -13,7 +13,7 @@ I'm Will -- a physician and researcher at [@atroposhealth](https://github.com/at
 - 🔑 [coldkey](https://github.com/pike00/coldkey) -- post-quantum age key generation with printable paper backups
 - 🕵️ [drape](https://github.com/pike00/drape) -- hide secrets from LLMs when they read config files (.env, SOPS, YAML, JSON, TOML)
 - 📇 [Kindred](https://github.com/pike00/Kindred) -- a self-hosted personal CRM: contacts, interactions, reminders, and journaling with CardDAV sync and full-text search
-- 🩺 [MedPeds](https://github.com/pike00/medpeds-site) -- a free clinical quick-reference for internal medicine and pediatrics, built for the bedside
+- 💡 [LED-CCT-Controller](https://github.com/pike00/LED-CCT-Controller) -- design files and firmware for an ESP32-based tunable-white LED controller
 - 🤖 [pikellm](https://github.com/pike00/pikellm) -- a custom OpenAI-compatible LLM gateway (FastAPI + pydantic-ai + Postgres)
 
 #### Outside of work
