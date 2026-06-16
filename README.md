@@ -2,10 +2,7 @@
 
 I'm Will -- a physician and researcher at [@atroposhealth](https://github.com/atroposhealth), working at the intersection of clinical medicine and informatics. I build tools that turn clinical data into research-grade evidence.
 
-**Director of Medical Informatics** · he/him · 📍 Chicago, IL
-
-🌐 [pikemd.com](https://pikemd.com)  
-🆔 ORCID: [0000-0002-2166-1559](https://orcid.org/0000-0002-2166-1559)
+**Director of Medical Informatics**
 
 - Building tools for real-world evidence, health outcomes, and translational research
 - Interested in medical informatics, research automation, AI/LLMs in medicine, and open-source tooling for academic workflows
