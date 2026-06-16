@@ -8,4 +8,4 @@ I'm Will -- a physician and researcher at [@atroposhealth](https://github.com/at
 - Interested in medical informatics, research automation, and open-source tooling for academic workflows
 - ORCID: [0000-0002-2166-1559](https://orcid.org/0000-0002-2166-1559)
 
-Outside of work, I'm into homelab tinkering, playing squash, and hanging out with my two whippets.
+Outside of work, I'm into homelab tinkering, self-hosting, and home automation; AI agents and tinkering with LLMs; 3D printing and design; road and trail biking; playing squash; and hanging out with my two whippets.
