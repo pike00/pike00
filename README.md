@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-I'm Will, a physician and researcher at [@atroposhealth](https://github.com/atroposhealth), working at the intersection of clinical medicine and informatics. I build tools that turn clinical data into research-grade evidence.
-
-**Director of Medical Informatics**
-
-- Building tools for real-world evidence, health outcomes, and translational research
-- Interested in medical informatics, research automation, AI/LLMs in medicine, and open-source tooling for academic workflows
+I'm Will, a physician, researcher, and Clinical AI Informaticist at [Suki AI](www.suki.ai). I work across clinical medicine, data science, and AI engineering, with a focus on building and evaluating AI tools for healthcare. Previously, I was Director of Medical Informatics and Innovation at Atropos Health, where I built tools that turn clinical data into research-grade evidence. My interests include clinical AI evaluation, LLMs and agents, research automation, and open-source tooling.
 
 #### A few projects I'm proud of
 
